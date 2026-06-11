@@ -33,25 +33,30 @@
 ### ⚙️ Installation
 
 1. **Clone the repository:**
+
    ```bash
+   
    git clone https://github.com/Yashaswi-kankarla/leverup.git
    cd leverup
 
-2. **Install the required Python packages:**
+3. **Install the required Python packages:**
+
    ```bash
+   
     pip install -r requirements.txt
 
 ### 🖥️ Running the C2 Server
 
-    Configure the Server (Optional):
+   Configure the Server (Optional):
     Modify the server's IP and port in app.py if needed (default: 0.0.0.0:8080).
 
-    Start the server:
-    bash
+   Start the server:
+    
+    ```bash
+      
+      python app.py
 
-    python app.py
-
-    Access the Web Panel:
+   Access the Web Panel:
     Open your browser to http://127.0.0.1:8080.
 
 ### 🤖 Deploying a Bot (Payload)
