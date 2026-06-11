@@ -28,6 +28,7 @@ Bot Payloads	C++ (Windows API)
 🚀 Getting Started
 
 These instructions will guide you through setting up the C2 server on your machine.
+
 📋 Prerequisites
 
     Python 3.7+ and pip
