@@ -114,7 +114,7 @@ Event Logs: All events are shown in the "Event Logs" section. You can filter log
 
 ### ⚠️ Important Legal & Ethical Disclaimer
 
-    This tool is intended for educational and research purposes only.
+   This tool is intended for educational and research purposes only.
     Unauthorized use on systems you do not own or have explicit permission to test is illegal and unethical. The developer assumes no liability for any misuse or damage caused by this software.
     This tool should only be used for ethical and legal penetration testing activities. Unauthorized use is strictly prohibited.
 
@@ -137,5 +137,4 @@ For questions, suggestions, or feedback, please reach out to Yashaswi Kankarla.
 
     Email: yashaswikankarla@gmail.com
 
-    Project Link: https://github.com/Yashaswi-kankarla/leverup🎯 LeverUp C2 Framework
-
+    Project Link: https://github.com/Yashaswi-kankarla/leverup
