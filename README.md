@@ -106,21 +106,23 @@ Execute the generated bot.exe on the target Windows machine. The bot will attemp
 
 Once the server is running and a bot is connected, you'll see it appear in the left panel of the web interface.
 
-Selecting Bots: Click on a bot's card to select it. Use the "All" or "None" buttons to manage multiple selections.
+-Selecting Bots: Click on a bot's card to select it. Use the "All" or "None" buttons to manage multiple selections.
 
-Sending Commands: Type a command (e.g., whoami, ipconfig, dir C:\) into the "Command Center" text box and click "Send". The output will appear in the logs.
+-Sending Commands: Type a command (e.g., whoami, ipconfig, dir C:\) into the "Command Center" text box and click "Send". The output will appear in the logs.
 
-Shell Mode: For an interactive shell, select a bot and click "Shell Mode - Enable". You can then type and send commands one after another.
+-Shell Mode: For an interactive shell, select a bot and click "Shell Mode - Enable". You can then type and send commands one after another.
 
-Event Logs: All events are shown in the "Event Logs" section. You can filter logs by type (Success, Error, Warning, etc.).
+-Event Logs: All events are shown in the "Event Logs" section. You can filter logs by type (Success, Error, Warning, etc.).
 
    LeverUp is designed to be straightforward and user-friendly. Simply run the app.py script to launch the web control panel, then access the interface through your browser. From the main dashboard, you can select connected bots, send system commands, transfer files, and monitor real-time logs – all through an intuitive point-and-click interface.
 
 ### ⚠️ Important Legal & Ethical Disclaimer
 
-   This tool is intended for educational and research purposes only.
-    Unauthorized use on systems you do not own or have explicit permission to test is illegal and unethical. The developer assumes no liability for any misuse or damage caused by this software.
-    This tool should only be used for ethical and legal penetration testing activities. Unauthorized use is strictly prohibited.
+-This tool is intended for educational and research purposes only.
+
+-Unauthorized use on systems you do not own or have explicit permission to test is illegal and unethical. The developer assumes no liability for any misuse or damage caused by this software.
+
+-This tool should only be used for ethical and legal penetration testing activities. Unauthorized use is strictly prohibited.
 
 ### 🤝 Contributing
 
