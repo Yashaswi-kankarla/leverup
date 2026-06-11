@@ -72,12 +72,14 @@ The payload/ directory contains various C++ bot implementations:
 #### 1. **Configure the Bot**
 
 In the payload source code (e.g., with_LM.cpp or leverup_bot_fixed.cpp), update the C2 server address:
-cpp
+      
+      ```cpp
 
-// Update these lines
-std::string C2_SERVER_IP = "YOUR_SERVER_IP";
+    // Update these lines
+    
+    std::string C2_SERVER_IP = "YOUR_SERVER_IP";
 
-int C2_SERVER_PORT = 8080;
+    int C2_SERVER_PORT = 8080;
 
 #### 2. **Compile the Bot**
 
@@ -129,11 +131,11 @@ Once the server is running and a bot is connected, you'll see it appear in the l
 
 ### ⚠️ Important Legal & Ethical Disclaimer
 
--This tool is intended for educational and research purposes only.
+- This tool is intended for educational and research purposes only.
 
--Unauthorized use on systems you do not own or have explicit permission to test is illegal and unethical. The developer assumes no liability for any misuse or damage caused by this software.
+- Unauthorized use on systems you do not own or have explicit permission to test is illegal and unethical. The developer assumes no liability for any misuse or damage caused by this software.
 
--This tool should only be used for ethical and legal penetration testing activities. Unauthorized use is strictly prohibited.
+- This tool should only be used for ethical and legal penetration testing activities. Unauthorized use is strictly prohibited.
 
 ### 🤝 Contributing
 
