@@ -36,7 +36,8 @@
 
     ```bash
 
-   git clone https://github.com/Yashaswi-kankarla/leverup.git
+    git clone https://github.com/Yashaswi-kankarla/leverup.git
+    
     cd leverup
 
 
