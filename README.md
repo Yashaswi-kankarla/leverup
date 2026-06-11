@@ -32,14 +32,15 @@
 
 ### ⚙️ Installation
 
-1. **Clone the repository:**
+#### 1. **Clone the repository:**
 
-   ```bash
-   
+    ```bash
+
    git clone https://github.com/Yashaswi-kankarla/leverup.git
-   cd leverup
+    cd leverup
 
-3. **Install the required Python packages:**
+
+#### 3. **Install the required Python packages:**
 
    ```bash
    
