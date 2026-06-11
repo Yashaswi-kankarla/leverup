@@ -50,7 +50,7 @@
 ### 🖥️ Running the C2 Server
 
    Configure the Server (Optional):
-    Modify the server's IP and port in app.py if needed (default: 0.0.0.0:8080).
+    Modify the server's IP and port in app.py if needed (default: 0.0.0.0:8080). But do check with server running.
 
    Start the server:
     
