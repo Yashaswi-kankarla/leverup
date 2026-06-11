@@ -115,7 +115,7 @@ Your contributions to improve LeverUp are welcome! Feel free to submit a Pull Re
 This project is currently unlicensed, which means all rights are reserved. You may view and fork the code, but you are not permitted to use, modify, or distribute it without explicit permission from the author.
 📫 Contact & Support
 
-    Author: Yashaswi Kankarla
+    Author: Kankarla Yashaswi 
 
     GitHub: @Yashaswi-kankarla
 
