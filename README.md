@@ -25,7 +25,7 @@ Backend	Python,
 (Flask, 
 Flask-SocketIO)
 
-Frontend	HTML5, CSS3, JavaScript (Vanilla)
+Frontend	HTML5, CSS3, JavaScript 
 
 Real-time	WebSockets (Flask-SocketIO, python-socketio)
 
