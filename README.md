@@ -67,7 +67,11 @@ The payload/ directory contains various C++ bot implementations:
 
     with_LM.cpp – includes lateral movement capabilities
 
-    Newupdate without LM.cpp – the stable, fixed bot version
+    lever-up.cpp – A lean, straightforward bot.
+
+    Newupdate without LM.cpp – A feature-packed bot that also includes privesc and store/retrieve commands.
+
+My recommendation is to use lever-up.cpp as your primary, stable build, but I'll explain the trade-offs so you can make the best decision for your needs.
 
 #### 1. **Configure the Bot**
 
