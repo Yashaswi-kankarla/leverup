@@ -22,10 +22,8 @@ LeverUp is an advanced, web-based Command & Control (C2) framework for security 
 🛠️ Tech Stack
 
 Backend	Python, 
-
-Flask, 
-
-Flask-SocketIO
+(Flask, 
+Flask-SocketIO)
 
 Frontend	HTML5, CSS3, JavaScript (Vanilla)
 
