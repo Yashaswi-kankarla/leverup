@@ -67,7 +67,7 @@ The payload/ directory contains various C++ bot implementations:
 
     with_LM.cpp – includes lateral movement capabilities
 
-    leverup_bot_fixed.cpp – the stable, fixed bot version
+    Newupdate without LM.cpp – the stable, fixed bot version
 
 #### 1. **Configure the Bot**
 
