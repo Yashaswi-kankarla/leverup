@@ -20,7 +20,9 @@ LeverUp is an advanced, web-based Command & Control (C2) framework for security 
     ⚡ Real-time Communication: Powered by WebSockets (Flask-SocketIO) for seamless, low-latency communication between the server and connected bots.
 
 🛠️ Tech Stack
+
 Component	Technology
+
 Backend	Python, 
 Flask, 
 Flask-SocketIO
